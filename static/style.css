@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background:#f6f8fa; color:#111; }
+.container { max-width:900px; margin:40px auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.05); }
+h1 a { text-decoration:none; color:inherit; }
+.btn { display:inline-block; padding:6px 10px; margin:4px; border-radius:6px; background:#eee; text-decoration:none; color:#111; }
+pre { white-space:pre-wrap; word-wrap:break-word; background:#fafafa; padding:12px; border-radius:6px; }
+textarea { width:100%; font-family:monospace; font-size:14px; }
